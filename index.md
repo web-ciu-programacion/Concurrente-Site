@@ -2,9 +2,9 @@
 
 ### Programación Concurrente
 Bienvenidxs al sitio web correspondiente a la materia Programación Concurrente.
+<br/>
+<br/>
 Comentarios bienvenidos, a web.ciu.programacion@gmail.com
 <br/>
-
 <hr/>
-
-<center><img src="imagenes/logo-lamadrid-1.png" />&nbsp;<img src="imagenes/logo-gobstones-1.png" /></center>
+<center><img src="imagenes/logo-lamadrid-1.png" /></center>
