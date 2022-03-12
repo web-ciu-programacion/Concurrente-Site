@@ -4,9 +4,9 @@
 ### Capítulo 1 - Principios fundamentales
 Autor: Ariel Celay<br/>
 Escenario y problemas principales de la programación concurrente.<br/>
-<a>documento 1 - </a><a href="teoria/Capitulo-1-PrincipiosFundamentales.pdf" target="_blank">descargar</a>
-<a>documento 2 - </a><a href="teoria/Capitulo-1-PrincipiosFundamentales-CondicionesDeBernstein.pdf" target="_blank">descargar</a>
-<a>documento 3 - </a><a href="teoria/Capitulo-1-PrincipiosFundamentales-GrafosPrecedencia-CobeginCoend.pdf" target="_blank">descargar</a>
+<a>documento 1 - </a><a href="teoria/Capitulo-1-PrincipiosFundamentales.pdf" target="_blank">descargar</a><br/>
+<a>documento 2 - </a><a href="teoria/Capitulo-1-PrincipiosFundamentales-CondicionesDeBernstein.pdf" target="_blank">descargar</a><br/>
+<a>documento 3 - </a><a href="teoria/Capitulo-1-PrincipiosFundamentales-GrafosPrecedencia-CobeginCoend.pdf" target="_blank">descargar</a><br/>
 
 <hr/>
 
