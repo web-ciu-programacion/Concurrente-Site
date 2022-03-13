@@ -1,13 +1,14 @@
 [volver](index.md)<br/>
 ## entorno
+El lenguaje de programación que se utilizará en la materia es Java; y en la unidad *Paso de mensajes* se utilizará Spring.
 
-# JDK 11
+### jdk 11
 https://jdk.java.net/archive/
 
 <br/>
-# Eclipse
+### eclipse
 https://www.eclipse.org/
-Java o J2EE
+eclipse for java ee developers
 <br/>
 
 <hr/>
