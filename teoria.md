@@ -30,4 +30,4 @@ Solución a los problemas principales de la programación concurrente utlizando 
 
 <hr/>
 
-<center><img src="imagenes/logo-lamadrid-1.png" /></center>
+<center><img src="imagenes/logo-lamadrid-1.png" />&nbsp;<img src="imagenes/logo-java-duke-chico.png" /></center>
