@@ -1,6 +1,6 @@
 [volver](index.md)<br/>
 ## entorno
-El lenguaje de programación que se utilizará en la materia es Java; y en la unidad *Paso de mensajes* se utilizará Spring.
+El lenguaje de programación que se utilizará en la materia es Java; y en la unidad *Paso de mensajes* además se utilizará el framework Spring Boot.
 
 ### jdk 11
 https://jdk.java.net/archive/
