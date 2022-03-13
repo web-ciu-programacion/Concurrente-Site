@@ -12,20 +12,20 @@ Escenario y problemas principales de la programación concurrente.<br/>
 
 ### Capítulo 2 - Procesos vs. Hilos
 Autor: Ariel Celay<br/>
-Escenario y problemas principales de la programación concurrente.<br/>
+Concepto de Procesos e Hilos. Introducción a Hilos.<br/>
 <a href="teoria/Capitulo-2-ProcesosVsHilos.pdf" target="_blank">descargar</a>
 
 <hr/>
 
 ### Capítulo 3 - Aproximación a soluciones concurrentes
 Autor: Ariel Celay<br/>
-Escenario y problemas principales de la programación concurrente.<br/>
+Soluciones conceptuales a los problemas principales de la programación concurrente.<br/>
 <a href="teoria/Capitulo-3-AproximacionASolucionesConcurrentes.pdf" target="_blank">descargar</a>
 <hr/>
 
 ### Capítulo 4 - Semáforos
 Autor: Ariel Celay<br/>
-Escenario y problemas principales de la programación concurrente.<br/>
+Solución a los problemas principales de la programación concurrente utlizando semáforos.<br/>
 <a href="teoria/Capitulo-4-Semaforos.pdf" target="_blank">descargar</a>
 
 <hr/>
