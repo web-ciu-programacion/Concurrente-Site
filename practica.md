@@ -16,4 +16,4 @@ Ejercicios a resolver utilizando hilos y semáforos para su sincronización.<br/
 
 <hr/>
 
-<center><img src="imagenes/logo-lamadrid-1.png" /></center>
+<center><img src="imagenes/logo-lamadrid-1.png" />&nbsp;<img src="imagenes/logo-java-duke-chico.png" /></center>
