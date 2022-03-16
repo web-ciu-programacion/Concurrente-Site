@@ -16,4 +16,11 @@ Ejercicios a resolver utilizando hilos y semáforos para su sincronización.<br/
 
 <hr/>
 
+### Capítulo 5
+Autor: Ariel Celay<br/>
+Ejercicios a resolver utilizando las primitivas de sincronización de Java.<br/>
+<a href="practica/capitulo-5-practica.pdf" target="_blank">descargar</a>
+
+<hr/>
+
 <center><img src="imagenes/logo-lamadrid-1.png" />&nbsp;<img src="imagenes/logo-java-duke-chico.png" /></center>
