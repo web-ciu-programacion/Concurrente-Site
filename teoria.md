@@ -27,7 +27,12 @@ Soluciones conceptuales a los problemas principales de la programación concurre
 Autor: Ariel Celay<br/>
 Solución a los problemas principales de la programación concurrente utlizando semáforos.<br/>
 <a href="teoria/Capitulo-4-Semaforos.pdf" target="_blank">descargar</a>
+<hr/>
 
+### Capítulo 5 - Primitivas de sincronización en Java
+Autor: Ariel Celay<br/>
+Primitivas de Java que ofrecen una solución a los principales problemas de la programación concurrente.<br/>
+<a href="teoria/Capitulo-5-PrimitivasDeSincronizacionEnJava.pdf" target="_blank">descargar</a>
 <hr/>
 
 <center><img src="imagenes/logo-lamadrid-1.png" />&nbsp;<img src="imagenes/logo-java-duke-chico.png" /></center>
