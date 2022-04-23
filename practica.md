@@ -30,4 +30,8 @@ Ejercicios a resolver utilizando Monitores.<br/>
 
 <hr/>
 
+<a href="https://github.com/web-ciu-programacion/Concurrente-Soluciones" target="_blank">Repositorio soluciones</a>
+
+<hr/>
+
 <center><img src="imagenes/logo-lamadrid-1.png" />&nbsp;<img src="imagenes/logo-java-duke-chico.png" /></center>
