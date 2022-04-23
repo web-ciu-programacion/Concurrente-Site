@@ -1,4 +1,4 @@
-[teoría](teoria.md)&nbsp;-&nbsp;[práctica](practica.md)&nbsp;-&nbsp;[entorno](entorno.md)
+[teoría](teoria.md)&nbsp;-&nbsp;[práctica](practica.md)&nbsp;-&nbsp;[bibliografía](bibliografia.md)&nbsp;-&nbsp;[entorno](entorno.md)
 
 ## Programación Concurrente
 <center><img src="imagenes/pre-homeros-chica.jpg" /></center>
