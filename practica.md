@@ -30,7 +30,8 @@ Ejercicios a resolver utilizando Monitores.<br/>
 
 <hr/>
 
-<a href="https://github.com/web-ciu-programacion/Concurrente-Soluciones" target="_blank">Repositorio soluciones</a>
+### Repositorio soluciones
+<a href="https://github.com/web-ciu-programacion/Concurrente-Soluciones" target="_blank">Ir</a>
 
 <hr/>
 
