@@ -41,4 +41,10 @@ Solución a los problemas principales utilizando la técnica de Monitores. Primi
 <a href="teoria/Capitulo-6-Monitores.pdf" target="_blank">descargar</a>
 <hr/>
 
+### Capítulo 7 - Paso de mensajes
+Autor: Ariel Celay<br/>
+Solución a los problemas principales utilizando la técnica de Monitores. Primitivas de sincronización y Lock Conditions<br/>
+<a href="teoria/Capitulo-7-PasoDeMensajes.pdf" target="_blank">descargar</a>
+<hr/>
+
 <center><img src="imagenes/logo-lamadrid-1.png" />&nbsp;<img src="imagenes/logo-java-duke-chico.png" /></center>
