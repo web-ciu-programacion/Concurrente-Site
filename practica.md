@@ -30,6 +30,13 @@ Ejercicios a resolver utilizando Monitores.<br/>
 
 <hr/>
 
+### Capítulo 7
+Autor: Ariel Celay<br/>
+Ejercicios a resolver utilizando Paso de mensajes.<br/>
+<a href="practica/capitulo-7-practica.pdf" target="_blank">descargar</a>
+
+<hr/>
+
 ### Repositorio soluciones
 <a href="https://github.com/web-ciu-programacion/Concurrente-Soluciones" target="_blank">Ir</a>
 
