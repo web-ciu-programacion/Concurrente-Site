@@ -23,4 +23,16 @@ Ejercicios a resolver utilizando las primitivas de sincronización de Java.<br/>
 
 <hr/>
 
+### Capítulo 6
+Autor: Ariel Celay<br/>
+Ejercicios a resolver utilizando Monitores.<br/>
+<a href="practica/capitulo-6-practica.pdf" target="_blank">descargar</a>
+
+<hr/>
+
+### Repositorio soluciones
+<a href="https://github.com/web-ciu-programacion/Concurrente-Soluciones" target="_blank">Ir</a>
+
+<hr/>
+
 <center><img src="imagenes/logo-lamadrid-1.png" />&nbsp;<img src="imagenes/logo-java-duke-chico.png" /></center>

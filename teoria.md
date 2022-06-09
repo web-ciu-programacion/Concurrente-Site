@@ -35,4 +35,10 @@ Primitivas de Java que ofrecen una solución a los principales problemas de la p
 <a href="teoria/Capitulo-5-PrimitivasDeSincronizacionEnJava.pdf" target="_blank">descargar</a>
 <hr/>
 
+### Capítulo 6 - Monitores
+Autor: Ariel Celay<br/>
+Solución a los problemas principales utilizando la técnica de Monitores. Primitivas de sincronización y Lock Conditions<br/>
+<a href="teoria/Capitulo-6-Monitores.pdf" target="_blank">descargar</a>
+<hr/>
+
 <center><img src="imagenes/logo-lamadrid-1.png" />&nbsp;<img src="imagenes/logo-java-duke-chico.png" /></center>
